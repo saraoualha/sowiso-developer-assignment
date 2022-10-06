@@ -1,0 +1,12 @@
+
+.row {
+    height: 7em;
+    border: none;
+    margin: 100px 10px 10px 10px;
+    background-color: rgb(255, 225, 170);
+    border-radius: 10px;
+}
+
+#button{
+    margin-top: 100px;
+}
